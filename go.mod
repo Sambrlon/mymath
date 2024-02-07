@@ -1,3 +1,3 @@
-module github.com/Sambrlon/mymath/v1.0.0
+module github.com/Sambrlon/mymath
 
 go 1.19
